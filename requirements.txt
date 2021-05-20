@@ -1,5 +1,6 @@
 streamlit
-cv2
+opencv-contrib-python
+opencv-python
 numpy
-matplotlib.pyplot
-PIL
+matplotlib
+pillow
